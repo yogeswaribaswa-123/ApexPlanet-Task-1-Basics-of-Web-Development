@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffbea;
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+}
+
+p {
+  font-size: 16px;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px gray;
+  margin-bottom: 10px;
+  width: 300px;
+  display: block;
+}
+
+a {
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
+
+button {
+  background-color: orange;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkorange;
+}
